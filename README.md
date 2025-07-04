@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Sorting: AI-Powered Produce Quality Detection
 
 ## Overview
@@ -223,3 +224,6 @@ For questions, suggestions, or collaboration opportunities, please contact:
 - Real-time video stream processing
 - Advanced analytics dashboard
 - Multi-language support
+=======
+# Smart-Sorting-Transfer-Learning-for-Identifying-Rotten-Fruits-and-Vegetables
+>>>>>>> 1eadc585ef8815881fb6159e8ad82bd1b29e4317
